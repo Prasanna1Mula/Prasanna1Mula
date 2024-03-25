@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Prasanna Mula
-- 👀 I’m interested in Java and Full stack Web development
+- 👀 I’m interested in C programming, Python programming language and Java. Aspiring to learn C++ and VDHL in future
 - I am also aspiring to get accqainted with other programming languages and AI tools 
-- 🌱 I’m currently learning coding and programming in YT CodeWithHarry
+- 🌱 I’m currently learning coding and programming in YT CodeWithHarry, Great Learning academy and Cisco Networking
 - 📫 How to reach me  thehoarseandhumble@gmail.com
 - I am also available on linkedIn- https://www.linkedin.com/in/prasanna-mula-15ab38259/
 
