@@ -42,3 +42,4 @@
 [![Email](https://img.shields.io/badge/Gmail-prasanna.Mula1@gmail.com-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:prasanna.Mula1@gmail.com)  
 
 ---
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Prasanna1Mula&layout=compact&theme=dark)](https://github.com/Prasanna1Mula)
